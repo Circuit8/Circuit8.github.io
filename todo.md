@@ -5,6 +5,7 @@
   - [x] Add linked in link
   - [x] Add index of blog posts
 - [ ] Create a blog post
+  - [x] Write it
   - [ ] Do one more readover
   - [ ] Fix apostrophes
 - [x] Ensure it all looks good
