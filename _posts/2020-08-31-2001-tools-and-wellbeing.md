@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "2001 A space Odyssey, Tools, and well-being"
-date:   2020-08-31 11:18:21 +0100
+title: "2001 A space Odyssey, Tools, and well-being"
+date: 2020-08-31 11:18:21 +0100
 categories: technology buddhism psychology
 ---
 
@@ -31,12 +31,12 @@ On the individual level we are constantly in conflict with HAL. I purchase a sma
 
 Tools are not only physical, since time immemorial we have used mental tools, such as language, and the conceptualization of the past and future.
 
-The future is an interesting idea, its something that in some sense humans have invented, a mental tool that gave us many advantages over other animals. When this tool is used correctly, it lays the foundation of pretty much everything we enjoy about civilization. The ancient hunter gatherer decides against leaving the extra food she just found because she's not hungry, conjuring an image in her mind of her children starving, and instead decides to stockpile it for the winter, thus saving her family.
+The future is an interesting idea, it's something that in some sense humans have invented, a mental tool that gave us many advantages over other animals. When this tool is used correctly, it lays the foundation of pretty much everything we enjoy about civilization. The ancient hunter gatherer decides against leaving the extra food she just found because she's not hungry, conjuring an image in her mind of her children starving, and instead decides to stockpile it for the winter, thus saving her family.
 
-However, as with all tools there is a dark side. If we only imagined the future when it served us, it wouldn't be a problem. however, many people spend much of their days in an addictive swirl of thoughts, constantly planning, worrying about how their finances, their career, or whether people like them. This is always at the expense of the present moment. Many people sacrifice much of their waking lives, planning for tomorrow, and when it comes, they are similarly lost worrying about the day after that. As Mark Twain famously said when he was close to death _"I've had a lot of worries in my life, most of which never happened"_.
+However, as with all tools there is a dark side. If we only imagined the future when it served us, it wouldn't be a problem. Many people spend much of their days in an addictive swirl of thoughts, constantly planning, worrying about their finances, their career, or whether people like them. This is always at the expense of the present moment. Many people sacrifice much of their waking lives, planning for tomorrow, and when it comes, they are similarly lost worrying about the day after that. As Mark Twain famously said when he was close to death _"I've had a lot of worries in my life, most of which never happened"_.
 
 Increasingly I view picking up my smart phone and scrolling down some news feed in the same vein as losing my focus on the present moment and worrying about some imagined future. The difference is that while one tool sits in my pocket and can be switched off, the other rests permanently in my mind.
 
-We do battle with HAL every day, and the war is never ending. However, the problem is we don't view it as a battle. We don't see the problem with our relationship with our mental and physical tools, or if we do, we mostly elect to ignore the issue as its too much trouble to do anything about it. This is a call to arms, don't give in to apathy, use your awareness, change your habits, defeat HAL, and evolve.
+We do battle with HAL every day, and the war is never ending. However, the problem is we don't view it as a battle. We don't see the problem with our relationship with our mental and physical tools, or if we do, we mostly elect to ignore the issue as it's too much trouble to do anything about it. This is a call to arms, don't give in to apathy, use your awareness, change your habits, defeat HAL, and evolve.
 
 ![](/assets/star-child.jpg)
