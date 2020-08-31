@@ -2,7 +2,6 @@
 layout: post
 title: "2001 A space Odyssey, Tools, and well-being"
 date: 2020-08-31 11:18:21 +0100
-categories: technology buddhism psychology
 ---
 
 One way of describing the human species is that we are makers and users of tools. It's a fundamental way in which we differ from other animals. When I say tools I'm not just talking about hammers and screwdrivers. I'm talking about everything we create and use. Houses, cars, computers, guitars, power plants, medicine, hydrogen bombs, cheese graters, space ships, and tooth-picks.
